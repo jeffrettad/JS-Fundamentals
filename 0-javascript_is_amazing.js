@@ -1,2 +1,1 @@
-let myVar = "JavaScript is amazing";
-console.log(myVar);
+## Javascript to display JavaScript is amazing
